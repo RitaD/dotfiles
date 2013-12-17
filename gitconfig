@@ -1,9 +1,9 @@
 [user]
-  name = Alessio Rocco
-  email = alessio.rocco.lt@gmail.com
+  name = Rita D'Aprano
+  email = rita.daprano@gmail.com
 [core]
   excludesfile = /opt/boxen/config/git/gitignore
-  editor = vim
+  editor = stt
 [push]
   default = tracking
 [color]
